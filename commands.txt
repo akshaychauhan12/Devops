@@ -6,3 +6,7 @@ git remote -v
 git pull
 git push
 git fetch
+kaise hoga bhiya
+kaise btau yr tumko
+i have na idea
+
